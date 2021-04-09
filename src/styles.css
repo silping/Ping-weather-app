@@ -44,6 +44,11 @@ li {
   margin: 0 auto;
   color: #99a3a4;
 }
+
+footer {
+  font-size: 12px;
+  text-align: center;
+}
 .container {
   max-width: 540px;
   border: 1px solid #99a3a4;
